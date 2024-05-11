@@ -16,4 +16,4 @@ One fine morning, I decided I didn't agree with that.
 Follow the [white rabbit](https://github.com/matDOTviguier/z230nvmebios/wiki) ... aka wiki.
 
 ### Contribute ?
-Feel free to edit the wiki.
+[This way](https://gist.github.com/omaraboumrad/35654da0a376c57a2e0ab4d92ad0c339).
