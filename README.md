@@ -13,4 +13,4 @@ There's still some space in the BIOS software component penthouse, just enough t
 One fine morning, I decided I didn't agree with that.
 
 ## OK I'm ready
-Follow the White rabbit ...
+Follow the [white rabbit](https://github.com/matDOTviguier/z230nvmebios/wiki) ... aka wiki.
